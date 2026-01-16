@@ -129,11 +129,11 @@ We welcome contributions to expand and enrich this repository. If you know of an
 
 4. **AI-Researcher: Autonomous Scientific Innovation** [2025]
    - **Paper**: [arXiv:2505.18705](https://arxiv.org/abs/2505.18705)
-   - **GitHub**: [AI Scientist-v2](https://github.com/HKUDS/AI-Researcher). 
+   - **GitHub**: [AI-Researcher](https://github.com/HKUDS/AI-Researcher). 
 
 5. **DEEPSCIENTIST: ADVANCING FRONTIER-PUSHING SCIENTIFIC FINDINGS PROGRESSIVELY** [2025]
    - **Paper**: [arXiv:2509.26603](https://arxiv.org/abs/2509.26603)
-   - **GitHub**: [AI Scientist-v2](https://github.com/ResearAI/DeepScientist/). 
+   - **GitHub**: [DeepScientist](https://github.com/ResearAI/DeepScientist/). 
 
 6. **AI4Research: A Survey of Artificial Intelligence for Scientific Research** [2025]
    - **Paper**: [arXiv:2507.01903](https://arxiv.org/abs/2507.01903)
