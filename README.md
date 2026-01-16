@@ -62,8 +62,8 @@ We welcome contributions to expand and enrich this repository. If you know of an
    - **Paper**: [arXiv:2406.10252](https://arxiv.org/abs/2406.10252)
    - **GitHub**: [LitLLM](https://github.com/AutoSurveys/AutoSurvey). 
 
-6. **AutoSurvey: Large Language Models Can Automatically Write Surveys** [2024]
-   - **Paper**: [arXiv:2409.13740](https://arxiv.org/abs/2409.13740)
+6. **PaperQA: Retrieval-Augmented Generative Agent for Scientific Research** [2024]
+   - **Paper**: [arXiv:2409.13740]([https://arxiv.org/abs/2409.13740]
    - **GitHub**: [PaperQA2](https://github.com/future-house/paper-qa). 
 
 7. **Context-Aware Hierarchical Taxonomy Generation for Scientific Papers via LLM-Guided Multi-Aspect Clustering** [2025]
